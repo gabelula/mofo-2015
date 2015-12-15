@@ -1,6 +1,4 @@
-Git y GitHub para Periodistas
+MoFo Work Team 2015
 =============================
 
-Presentación para Periodismo de Datos en Barcelona 2014
-
-Se puede ver en [http://gabelula.github.io/github-para-periodistas-presentacion/#/](http://gabelula.github.io/github-para-periodistas-presentacion/#/)
+Mozilla Foundation Work Week
